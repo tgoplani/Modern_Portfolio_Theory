@@ -1,6 +1,6 @@
 # Stock Market Portfolio Optimization
 
-This project reproduces the Modern Portfolio Theory analysis used in the Data Science Intern Lightning Talk.
+This project reproduces the Modern Portfolio Theory analysis.
 
 ## What it does
 

@@ -1,4 +1,4 @@
-"""Modern Portfolio Theory analysis used for the intern lightning talk.
+"""Modern Portfolio Theory analysis with historical price data.
 
 The script:
 1. Downloads adjusted daily closing prices.
